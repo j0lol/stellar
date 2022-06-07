@@ -1,0 +1,11 @@
+{
+    "schema": 1,
+    "current": "default",
+    "profiles": [
+        {
+            "id": "default",
+            "name": "Default",
+            "description": "The default profile for EvergreenHUD"
+        }
+    ]
+}

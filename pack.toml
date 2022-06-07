@@ -1,0 +1,16 @@
+name = "Stellar"
+author = "jo!"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "df209adfd1b6c4848a120fea18c4e34e1afd64295adf56f4ff8467e962350a4c"
+
+[versions]
+minecraft = "1.18.2"
+quilt = "0.17.0-beta.2"
+
+[options]
+acceptable-game-versions = ["1.18", "1.18.1", "1.18.2", "1.18-Snapshot"]

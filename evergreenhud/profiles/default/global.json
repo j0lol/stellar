@@ -1,0 +1,12 @@
+{
+    "schema": 5,
+    "settings": {
+        "general": {
+            "enabled": true,
+            "element_snapping": true
+        },
+        "connectivity": {
+            "check_for_updates": true
+        }
+    }
+}

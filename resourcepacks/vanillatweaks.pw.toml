@@ -1,0 +1,11 @@
+name = "VanillaTweaks"
+filename = "VanillaTweaks_r945744.zip"
+side = "both"
+
+[download]
+url = "https://vanillatweaks.net/download/VanillaTweaks_r945744.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha1"
+hash = "f894d223e0615d44d7418a5192cd80141344ca38"

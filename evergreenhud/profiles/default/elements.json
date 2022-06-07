@@ -1,0 +1,562 @@
+{
+    "schema": 5,
+    "elements": [
+        {
+            "id": "evergreenhud:irl_time",
+            "position": {
+                "x": -0.978125,
+                "y": -0.88703704,
+                "scale": 1.0,
+                "origin": "BOTTOM_RIGHT"
+            },
+            "settings": {
+                "visibility": {
+                    "show_in_chat": false,
+                    "show_in_f3": false,
+                    "show_under_guis": true,
+                    "show_in_replay_viewer": false
+                },
+                "background": {
+                    "color": {
+                        "rgba": 1677721600
+                    },
+                    "padding_left": 4.0,
+                    "padding_right": 4.0,
+                    "padding_top": 4.0,
+                    "padding_bottom": 4.0,
+                    "minimum_width": 0.0,
+                    "minimum_height": 0.0,
+                    "corner_radius": 0.0
+                },
+                "outline": {
+                    "enabled": false,
+                    "color": {
+                        "rgba": -1
+                    },
+                    "thickness": 1.0
+                },
+                "text": {
+                    "brackets": false,
+                    "title": "Real Time",
+                    "color": {
+                        "rgba": -1
+                    },
+                    "text_style": "shadow",
+                    "alignment": "left",
+                    "text_cache": 5,
+                    "title_location": "beginning"
+                },
+                "time": {
+                    "twelve_hour": false,
+                    "seconds": false
+                }
+            }
+        },
+        {
+            "id": "evergreenhud:player_preview",
+            "position": {
+                "x": 0.8989632,
+                "y": -0.97407407,
+                "scale": 0.5,
+                "origin": "BOTTOM_RIGHT"
+            },
+            "settings": {
+                "visibility": {
+                    "show_in_chat": false,
+                    "show_in_f3": false,
+                    "show_under_guis": true,
+                    "show_in_replay_viewer": false
+                },
+                "background": {
+                    "color": {
+                        "rgba": 1677721600
+                    },
+                    "padding_left": 4.004587,
+                    "padding_right": 4.0,
+                    "padding_top": 4.0,
+                    "padding_bottom": 4.0,
+                    "minimum_width": 0.0,
+                    "minimum_height": 0.0,
+                    "corner_radius": 0.0
+                },
+                "outline": {
+                    "enabled": false,
+                    "color": {
+                        "rgba": -1
+                    },
+                    "thickness": 1.0
+                },
+                "player_preview": {
+                    "rotation": 0
+                }
+            }
+        },
+        {
+            "id": "evergreenhud:coordinates",
+            "position": {
+                "x": -0.9791667,
+                "y": -0.80185187,
+                "scale": 1.0,
+                "origin": "BOTTOM_RIGHT"
+            },
+            "settings": {
+                "visibility": {
+                    "show_in_chat": false,
+                    "show_in_f3": false,
+                    "show_under_guis": true,
+                    "show_in_replay_viewer": false
+                },
+                "background": {
+                    "color": {
+                        "rgba": 1677721600
+                    },
+                    "padding_left": 4.0,
+                    "padding_right": 4.0,
+                    "padding_top": 4.0,
+                    "padding_bottom": 4.0,
+                    "minimum_width": 0.0,
+                    "minimum_height": 0.0,
+                    "corner_radius": 0.0
+                },
+                "outline": {
+                    "enabled": false,
+                    "color": {
+                        "rgba": -16777216
+                    },
+                    "thickness": 1.0
+                },
+                "text": {
+                    "brackets": false,
+                    "title": "Coords",
+                    "color": {
+                        "rgba": -1
+                    },
+                    "text_style": "shadow",
+                    "alignment": "left",
+                    "text_cache": 5,
+                    "vertical_spacing": 2
+                },
+                "coordinates": {
+                    "mode": "vertical",
+                    "show_axis": true,
+                    "show_direction": false,
+                    "show_x": true,
+                    "show_y": true,
+                    "show_z": true,
+                    "accuracy": 0,
+                    "trailing_zeros": false
+                }
+            }
+        },
+        {
+            "id": "evergreenhud:fps",
+            "position": {
+                "x": 0.87812495,
+                "y": -0.87777776,
+                "scale": 1.0,
+                "origin": "BOTTOM_RIGHT"
+            },
+            "settings": {
+                "visibility": {
+                    "show_in_chat": false,
+                    "show_in_f3": false,
+                    "show_under_guis": true,
+                    "show_in_replay_viewer": false
+                },
+                "background": {
+                    "color": {
+                        "rgba": 1677721600
+                    },
+                    "padding_left": 4.0,
+                    "padding_right": 4.0,
+                    "padding_top": 4.0,
+                    "padding_bottom": 4.0,
+                    "minimum_width": 0.0,
+                    "minimum_height": 0.0,
+                    "corner_radius": 0.0
+                },
+                "outline": {
+                    "enabled": false,
+                    "color": {
+                        "rgba": -16777216
+                    },
+                    "thickness": 1.0
+                },
+                "text": {
+                    "brackets": false,
+                    "title": "FPS",
+                    "color": {
+                        "rgba": -1
+                    },
+                    "text_style": "shadow",
+                    "alignment": "right",
+                    "text_cache": 5,
+                    "title_location": "beginning"
+                },
+                "fps": {
+                    "average_method": "mean"
+                }
+            }
+        },
+        {
+            "id": "evergreenhud:memory",
+            "position": {
+                "x": 0.8791667,
+                "y": -0.7962963,
+                "scale": 1.0,
+                "origin": "BOTTOM_RIGHT"
+            },
+            "settings": {
+                "visibility": {
+                    "show_in_chat": false,
+                    "show_in_f3": false,
+                    "show_under_guis": true,
+                    "show_in_replay_viewer": false
+                },
+                "background": {
+                    "color": {
+                        "rgba": 1677721600
+                    },
+                    "padding_left": 4.0,
+                    "padding_right": 4.0,
+                    "padding_top": 4.0,
+                    "padding_bottom": 4.0,
+                    "minimum_width": 0.0,
+                    "minimum_height": 0.0,
+                    "corner_radius": 0.0
+                },
+                "outline": {
+                    "enabled": false,
+                    "color": {
+                        "rgba": -16777216
+                    },
+                    "thickness": 1.0
+                },
+                "text": {
+                    "brackets": false,
+                    "title": "Memory",
+                    "color": {
+                        "rgba": -1
+                    },
+                    "text_style": "shadow",
+                    "alignment": "right",
+                    "text_cache": 20,
+                    "title_location": "beginning"
+                },
+                "memory": {
+                    "display_type": "absolute",
+                    "trailing_zeros": false
+                }
+            }
+        },
+        {
+            "id": "evergreenhud:ping",
+            "position": {
+                "x": 0.8791667,
+                "y": -0.9611111,
+                "scale": 1.0,
+                "origin": "BOTTOM_RIGHT"
+            },
+            "settings": {
+                "visibility": {
+                    "show_in_chat": false,
+                    "show_in_f3": false,
+                    "show_under_guis": true,
+                    "show_in_replay_viewer": false
+                },
+                "background": {
+                    "color": {
+                        "rgba": 1677721600
+                    },
+                    "padding_left": 4.0,
+                    "padding_right": 4.0,
+                    "padding_top": 4.0,
+                    "padding_bottom": 4.0,
+                    "minimum_width": 0.0,
+                    "minimum_height": 0.0,
+                    "corner_radius": 0.0
+                },
+                "outline": {
+                    "enabled": false,
+                    "color": {
+                        "rgba": -16777216
+                    },
+                    "thickness": 1.0
+                },
+                "text": {
+                    "brackets": false,
+                    "title": "Ping",
+                    "color": {
+                        "rgba": -1
+                    },
+                    "text_style": "shadow",
+                    "alignment": "right",
+                    "text_cache": 5,
+                    "title_location": "beginning"
+                },
+                "ping": {
+                    "backup_interval": 20,
+                    "show_in_single_player": true
+                }
+            }
+        },
+        {
+            "id": "evergreenhud:world_time",
+            "position": {
+                "x": -0.9791667,
+                "y": -0.9685185,
+                "scale": 1.0,
+                "origin": "BOTTOM_RIGHT"
+            },
+            "settings": {
+                "visibility": {
+                    "show_in_chat": false,
+                    "show_in_f3": false,
+                    "show_under_guis": true,
+                    "show_in_replay_viewer": false
+                },
+                "background": {
+                    "color": {
+                        "rgba": 1677721600
+                    },
+                    "padding_left": 4.0,
+                    "padding_right": 4.0,
+                    "padding_top": 4.0,
+                    "padding_bottom": 4.0,
+                    "minimum_width": 0.0,
+                    "minimum_height": 0.0,
+                    "corner_radius": 0.0
+                },
+                "outline": {
+                    "enabled": false,
+                    "color": {
+                        "rgba": -1
+                    },
+                    "thickness": 1.0
+                },
+                "text": {
+                    "brackets": false,
+                    "title": "Game Time",
+                    "color": {
+                        "rgba": -1
+                    },
+                    "text_style": "shadow",
+                    "alignment": "left",
+                    "text_cache": 5,
+                    "title_location": "beginning"
+                },
+                "time": {
+                    "twelve_hour": false,
+                    "seconds": false
+                }
+            }
+        },
+        {
+            "id": "evergreenhud:armour_hud",
+            "position": {
+                "x": 0.8864583,
+                "y": 0.53888893,
+                "scale": 1.0,
+                "origin": "BOTTOM_RIGHT"
+            },
+            "settings": {
+                "visibility": {
+                    "show_in_chat": false,
+                    "show_in_f3": false,
+                    "show_under_guis": true,
+                    "show_in_replay_viewer": false
+                },
+                "background": {
+                    "color": {
+                        "rgba": 1677721600
+                    },
+                    "padding_left": 4.0,
+                    "padding_right": 4.0,
+                    "padding_top": 4.0,
+                    "padding_bottom": 4.0,
+                    "minimum_width": 0.0,
+                    "minimum_height": 0.0,
+                    "corner_radius": 0.0
+                },
+                "outline": {
+                    "enabled": false,
+                    "color": {
+                        "rgba": -1
+                    },
+                    "thickness": 1.0
+                },
+                "armourhud": {
+                    "show_helmet": true,
+                    "show_chestplate": true,
+                    "show_leggings": true,
+                    "show_boots": true,
+                    "show_main_hand": true,
+                    "show_off_hand": true,
+                    "padding": 5,
+                    "display_type": "down",
+                    "extra_info": "durability_absolute",
+                    "show_durability_bar": true
+                },
+                "text": {
+                    "color": {
+                        "rgba": -1
+                    },
+                    "text_style": "shadow",
+                    "alignment": "right"
+                }
+            }
+        },
+        {
+            "id": "evergreenhud:hypixel_map",
+            "position": {
+                "x": 0.9770833,
+                "y": -0.6333333,
+                "scale": 1.0,
+                "origin": "BOTTOM_RIGHT"
+            },
+            "settings": {
+                "visibility": {
+                    "show_in_chat": false,
+                    "show_in_f3": false,
+                    "show_under_guis": true,
+                    "show_in_replay_viewer": false
+                },
+                "background": {
+                    "color": {
+                        "rgba": 1677721600
+                    },
+                    "padding_left": 4.0,
+                    "padding_right": 4.0,
+                    "padding_top": 4.0,
+                    "padding_bottom": 4.0,
+                    "minimum_width": 0.0,
+                    "minimum_height": 0.0,
+                    "corner_radius": 0.0
+                },
+                "outline": {
+                    "enabled": false,
+                    "color": {
+                        "rgba": -16777216
+                    },
+                    "thickness": 1.0
+                },
+                "text": {
+                    "brackets": false,
+                    "title": "Map",
+                    "color": {
+                        "rgba": -1
+                    },
+                    "text_style": "shadow",
+                    "alignment": "right",
+                    "text_cache": 5,
+                    "title_location": "beginning"
+                },
+                "hypixel_game": {
+                    "no_hypixel_message": "None",
+                    "in_lobby_message": "None"
+                }
+            }
+        },
+        {
+            "id": "evergreenhud:hypixel_game",
+            "position": {
+                "x": 0.978125,
+                "y": -0.7166667,
+                "scale": 1.0,
+                "origin": "BOTTOM_RIGHT"
+            },
+            "settings": {
+                "visibility": {
+                    "show_in_chat": false,
+                    "show_in_f3": false,
+                    "show_under_guis": true,
+                    "show_in_replay_viewer": false
+                },
+                "background": {
+                    "color": {
+                        "rgba": 1677787393
+                    },
+                    "padding_left": 4.0,
+                    "padding_right": 4.0,
+                    "padding_top": 4.0,
+                    "padding_bottom": 4.0,
+                    "minimum_width": 0.0,
+                    "minimum_height": 0.0,
+                    "corner_radius": 0.0
+                },
+                "outline": {
+                    "enabled": false,
+                    "color": {
+                        "rgba": -1
+                    },
+                    "thickness": 1.0
+                },
+                "text": {
+                    "brackets": false,
+                    "title": "Game",
+                    "color": {
+                        "rgba": -1
+                    },
+                    "text_style": "shadow",
+                    "alignment": "right",
+                    "text_cache": 5,
+                    "title_location": "beginning"
+                },
+                "hypixel_game": {
+                    "no_hypixel_message": "None"
+                }
+            }
+        },
+        {
+            "id": "evergreenhud:hypixel_mode",
+            "position": {
+                "x": 0.9770833,
+                "y": -0.55185187,
+                "scale": 1.0,
+                "origin": "BOTTOM_RIGHT"
+            },
+            "settings": {
+                "visibility": {
+                    "show_in_chat": false,
+                    "show_in_f3": false,
+                    "show_under_guis": true,
+                    "show_in_replay_viewer": false
+                },
+                "background": {
+                    "color": {
+                        "rgba": 1677721600
+                    },
+                    "padding_left": 4.0,
+                    "padding_right": 4.0,
+                    "padding_top": 4.0,
+                    "padding_bottom": 4.0,
+                    "minimum_width": 0.0,
+                    "minimum_height": 0.0,
+                    "corner_radius": 0.0
+                },
+                "outline": {
+                    "enabled": false,
+                    "color": {
+                        "rgba": -16777216
+                    },
+                    "thickness": 1.0
+                },
+                "text": {
+                    "brackets": false,
+                    "title": "Mode",
+                    "color": {
+                        "rgba": -1
+                    },
+                    "text_style": "shadow",
+                    "alignment": "right",
+                    "text_cache": 5,
+                    "title_location": "beginning"
+                },
+                "hypixel_game": {
+                    "no_hypixel_message": "None",
+                    "in_lobby_message": "None"
+                }
+            }
+        }
+    ]
+}

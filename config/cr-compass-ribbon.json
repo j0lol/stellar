@@ -1,0 +1,16 @@
+{
+  "ribbonWidth": 70,
+  "ribbonRange": 240,
+  "ribbonYOffset": 10,
+  "fovHighlightOpacity": 50,
+  "fovHighlightColor": "black",
+  "fovHighlightShape": "rectangle",
+  "directionsCompassSlot": "hand",
+  "directionsInNether": "hidden",
+  "directionsInEnd": "hidden",
+  "directionsOpacity": 100,
+  "directionsColor": "orangeWhite",
+  "mapMarkersMapSlot": "hotBar",
+  "mapMarkersOpacity": 80,
+  "mapMarkersMinimalDistance": 2
+}

@@ -1,0 +1,214 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/cr-compass-ribbon.json"
+hash = "5e2652430666efeeb8144c67517cb8c770959a469bc9078b690cc65efdf18dbc"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "a5847c2b17ef149e70fa6e68de284a9b779296231ac4ca81fd771b6e9728355a"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/fancymenu/customization/hypixel.txt"
+hash = "a8b6bde433f5044f3b13e76d5954df95c0cdedc99d2920311f95c2d459eaf077"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "362e9a1b4480f5f8f52724f7f678b5899c92b5ac5cd14ddaeda533bb78721195"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "2496d5f076a277ae04f395d068eaac678c426200b24be568fa7bf6a7eb3b816e"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "82ee4c2444f37d9f011b7b945df1f05026e9910f6c02cf900a3b5e17871a81f3"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "c7c049bf3190cc0572bef5fb636fa80d775211962cdbede7bd284d072692eb91"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "f1c00a3c0fb7846f8aaf0b8e3f30368b9092352731ebbeb86b02bcdcd2f66abc"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "credits.txt"
+hash = "ccc45404fb1ed05d48ea353dd4b7a5b6fffdce056df136f2ccd71aac09247457"
+
+[[files]]
+file = "evergreenhud/profiles/default/elements.json"
+hash = "84e3ce71d1741dcc0f2f318254b83bdf946918ab65a902faf51ad22287f9ef3d"
+
+[[files]]
+file = "evergreenhud/profiles/default/global.json"
+hash = "5347dacd705733bd638eb71d9fc32b1f787dea08dc9612fb5d4f81c51765838e"
+
+[[files]]
+file = "evergreenhud/profiles/profiles.json"
+hash = "02cef889e4cdc632f3ac5c79284e0543138b3e61001476b04a38ee7475745700"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "e72273cbc32fb9fb946ec244e707a315ae91a7b816ac47444e5bd1cc664d29fa"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "f726e4e0b1481c9fcebabb78da8c50382ee7add661b38f820fb5b6ab6f5c0d0b"
+metafile = true
+
+[[files]]
+file = "mods/charmonium.pw.toml"
+hash = "9b17f81e976c2aaf1c4ed29266b805c78b8145357a02d6fe0c9f13682f388933"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "8201c0a16ace201405172e56292843cc99d8d675f1e323684943b9cee393acb1"
+metafile = true
+
+[[files]]
+file = "mods/compass-ribbon.pw.toml"
+hash = "a1fe8397d0cae3ef5be37390fce9e5358960e0a894d8f2cde16267f0ed3cb326"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "4932ddd020065b82614ddb7db60679f4c615b4c780dcac10c6ca43c3ba530c62"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "bd9c29083a0a18d6292b60c6f93a9032f44a060cae3636717ca2a485735491a0"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
+metafile = true
+
+[[files]]
+file = "mods/evergreenhud.pw.toml"
+hash = "037dbdba0ed47cc7ff7fbc266ba24ce9339ef7636e3ed7e892a6ddd04b3e96ba"
+metafile = true
+
+[[files]]
+file = "mods/fabric-hide-bossbar-1.18.2-0.0.1.jar"
+hash = "0372e8aeabb1afb5ecf9e6870e56579f3876a2d4d1aa55cf6cfddff63147c1e4"
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "738ffde3eab8e9d0c616e419862ff9c588bbd6009fad70953bd4d4697c88f202"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu_fabric_2.7.2-1_MC_1.18.2.jar"
+hash = "a9705aed6b2cc7f471897ad8077779cefafa2de2c1d57502aab167bd45a55434"
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "955af3c751bf51e8a5ae1f396a48da1fa3a85be5698714599c05a8c5007de8de"
+metafile = true
+
+[[files]]
+file = "mods/konkrete_fabric_1.3.3-1_MC_1.18-1.18.2.jar"
+hash = "d8b947d439d17610884e0e20cee1c768316d9980ecbc169015cd47745dad0f15"
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "5977b263e2694941ddc2e5279259089215fb72ea53ca1491a0e101c97896311a"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "8f501b0b0f968e3b4819219c5fd5c656500bb0a2736cafff092ce7279fe85574"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "d240a40073a8ae5c5f56b4c3cde5d78951ca71dc5b8279f0405f346a537659b7"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "5ee2e1b367b94cf44797f4c88b07c923dba9d36aa6d1a362562b42a6e3f01aaa"
+metafile = true
+
+[[files]]
+file = "mods/quilt-loading-screen.pw.toml"
+hash = "8c0b6b4af1aa2dda3b4d09ac32640b4f06523100a66be0c794d39688bacae3bc"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "d935b491016306e60b08bc234cc978ac84412d84d1ae5a9b6f8878a09ea25202"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "8cee882d886709a92b1c2ba19e6c5d1a55da9cc6ed79b78d62eec98b5b768588"
+metafile = true
+
+[[files]]
+file = "mods/scrollable-tooltips.pw.toml"
+hash = "13b5ee3e4e45bd4c89b43902814626add3ec7438a8557f1ca7ba281240f3c995"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
+metafile = true
+
+[[files]]
+file = "mods/time-changer.pw.toml"
+hash = "98ecd7f97e12d478507b6d7d8127b3aca598d7c5531982f9ba22217c6046d88e"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "40360801a7c848670982d7f332d30a25c9a62490caeb58e2d2664629f7a20ad5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanillatweaks.pw.toml"
+hash = "d33c4f048fd59e4744d57489b3831c4333ab2acb26847e094e68d6029b5c3553"
+metafile = true
