@@ -121,6 +121,11 @@ hash = "738ffde3eab8e9d0c616e419862ff9c588bbd6009fad70953bd4d4697c88f202"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "5d7ab07fbdcbc848e99da6ed138e1a51a9acedb429adce7c1d5b140196c65590"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu_fabric_2.7.2-1_MC_1.18.2.jar"
 hash = "a9705aed6b2cc7f471897ad8077779cefafa2de2c1d57502aab167bd45a55434"
 
@@ -135,6 +140,11 @@ hash = "955af3c751bf51e8a5ae1f396a48da1fa3a85be5698714599c05a8c5007de8de"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "320c81bdbccf9284aba1263d381267418030d9398072fbbc20070b4320e5f9dc"
+metafile = true
+
+[[files]]
 file = "mods/konkrete_fabric_1.3.3-1_MC_1.18-1.18.2.jar"
 hash = "d8b947d439d17610884e0e20cee1c768316d9980ecbc169015cd47745dad0f15"
 
@@ -146,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "2a56c2bea463274d47ec49b91460f3b80973ce8a553adead6a3c990765b448e0"
 metafile = true
 
 [[files]]
