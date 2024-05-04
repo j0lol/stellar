@@ -1,1 +1,1 @@
-Homepage: https://j0.lol/stellar
+attempt at making an alternative to lunar client as a modpack
